@@ -8,9 +8,9 @@
   <a href="">
     <img src="/imgLogo.png" alt="Logo" width="400" height="450">
   </a>
-  <h3>@Dev Jhow.Tatoos</h3>
+  <h3>Jhow Tatoos</h3>
   <p>
-    <a href="https://studioinkzone.netlify.app" target="_blank" rel="noreferrer">Demo do projeto</a>
+    <a href="https://site-00-jhow-tattoos.vercel.app" target="_blank" rel="noreferrer">Demo do projeto</a>
   </p>
 </div>
 
@@ -40,7 +40,6 @@
   <ul>
     <li><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-      React
     </a></li>
     <li>TailwindCSS</li>
     <li>React Image Gallery</li>
@@ -91,7 +90,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1024px-Facebook_f_logo_%282019%29.svg.png" alt="Facebook" height="30" width="40" />
     </a>
     <a href="https://www.pinterest.com/xjhowx/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pinterest_Logo_2017.svg/1024px-Pinterest_Logo_2017.svg.png" alt="Pinterest" height="30" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pinterest-logo.png" alt="Pinterest" height="30" width="40" />
     </a>
   </p>
   <p align="right"><a href="#topo">Para o topo</a></p>

@@ -24,23 +24,23 @@ export const headerData = {
 }
 
 export const heroData = {
-  title: 'Olá, sou o Jhow Tattoos.',
+  title: 'JHOW TATTOOS'
   subtitle:
-    'Tatuagens são uma forma única de expressão, que transmitem emoções e histórias que nunca se apagam. Venha deixar sua marca conosco.',
+    'Aqui as tatuagens são uma forma única de expressão, que transmitem emoções e histórias que nunca se apagam. Venha deixar sua marca conosco.',
   btnText: 'Saiba mais',
 }
 
 export const aboutData = {
-  title: 'Sobre Nós:',
+  title: 'SEJA BEM VINDO(A)'
   subtitle1:
-    'O Jhow Tattoos é um estúdio de tatuagem apaixonado por transformar ideias em arte. Com um compromisso com a originalidade, buscamos sempre criar designs personalizados que conectem com a personalidade e histórias de nossos clientes.',
+    'Um estúdio de tatuagem apaixonado por transformar ideias em arte. Com um compromisso com a originalidade, buscamos sempre criar designs personalizados que conectem com a personalidade e histórias de nossos clientes.',
   subtitle2:
     'Nossa prioridade é a segurança e a higiene, oferecendo um ambiente acolhedor e seguro, para que você tenha a melhor experiência possível durante todo o processo.',
   href: '/about',
 }
 
 export const galleryData = {
-  title: 'Galeria:',
+  title: 'Confira nosso trabalho:',
   images: [
     {
       src: GalleryImg1,

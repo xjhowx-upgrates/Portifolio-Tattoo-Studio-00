@@ -16,7 +16,7 @@ export default function Copyright() {
           className="tracking-[0.02em] text-base"
         >
           &copy; 2025
-          <span className="font-semibold text-white"> 2System.</span> Todos os 
+          <span className="font-semibold text-white"> Desenvolvido por @xjhowx |</span> Todos os 
           direitos reservado.
         </motion.div>
       </div>

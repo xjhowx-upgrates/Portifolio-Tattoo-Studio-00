@@ -7,11 +7,10 @@ import {
 } from '@react-google-maps/api'
 
 const mapContainerStyle = {
-  height: '520px',
-  width: '90%',
+  height: '100vh',  // Definindo altura total da janela (pode ser ajustado conforme necessário)
+  width: '100%',    // 100% da largura disponível
 }
 
-// Atualizando o centro com a nova latitude e longitude
 const center = {
   lat: -23.9731812,
   lng: -46.3877899,
@@ -51,7 +50,7 @@ const darkMapOptions = {
       elementType: 'geometry',
       stylers: [
         {
-          color: '#038205', // Substitua pela cor desejada para as ruas
+          color: '#038205',
         },
       ],
     },
@@ -91,14 +90,14 @@ export default function Map() {
     <LoadScript googleMapsApiKey="AIzaSyAvFlmEaxxmO5TFjdklgkZNJsE6j-3SNt8">
       <GoogleMap
         mapContainerStyle={mapContainerStyle}
-        center={center} // Alterando o centro para a nova localização
+        center={center}
         zoom={16}
         options={mapOptions}
       >
-        {/* Atualizando a posição do Marker para a nova localização */}
         <Marker
-          position={{ lat: -23.9731812, lng: -46.3877899 }}
+          position={center}
           title="Studio InkZone"
+          onClick={() => handleMarkerClick({ position: center })}
         />
         {selectedMarker && (
           <InfoWindow
