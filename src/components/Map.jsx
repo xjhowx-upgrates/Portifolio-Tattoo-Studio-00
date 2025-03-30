@@ -105,7 +105,7 @@ export default function Map() {
             onCloseClick={handleInfoWindowClose}
           >
             <div>
-              <h3>Studio InkZone</h3>
+              <h3>@JHOW.TATTOOS</h3>
             </div>
           </InfoWindow>
         )}

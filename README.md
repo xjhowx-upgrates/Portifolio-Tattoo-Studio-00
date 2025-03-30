@@ -38,18 +38,34 @@
 <section>
   <h3>Desenvolvido com:</h3>
   <ul>
-    <li><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    </a></li>
-    <li>TailwindCSS</li>
-    <li>React Image Gallery</li>
+    <li>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+      </a>
+    </li>
+    <li>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+      </a>
+    </li>
     <li>EmailJS</li>
     <li>Toast</li>
     <li>React-Photo-Album</li>
-    <li>React Google Maps</li>
-    <li>React-Modal-Video</li>
-    <li>Swiper</li>
-    <li>Framer-Motion</li>
+    <li>
+      <a href="https://www.google.com/maps" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Google_Maps_icon_%282020%29.svg" alt="Google Maps" width="40" height="40"/>
+      </a>
+    </li>
+    <li>
+      <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://swiperjs.com/images/favicon.png" alt="Swiper" width="40" height="40"/>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" alt="Framer Motion" width="40" height="40"/>
+      </a>
+    </li>
   </ul>
 </section>
 
@@ -78,19 +94,19 @@
   <h2>Conecte-se Comigo!</h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/xjhowx" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      <img src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" height="30" width="30" />
     </a>
     <a href="https://www.instagram.com/jhow.tattoos/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="Instagram" height="30" width="40" />
+      <img src="https://static.vecteezy.com/system/resources/previews/042/127/160/non_2x/instagram-logo-on-circle-style-with-transparent-background-free-png.png" alt="Instagram" height="30" width="30" />
     </a>
     <a href="https://www.youtube.com/channel/UCXXX" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/600px-YouTube_icon_%282013-2017%29.png" alt="YouTube" height="30" width="40" />
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/575/small_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="YouTube" height="30" width="30" />
     </a>
     <a href="https://www.facebook.com/xjhowx" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1024px-Facebook_f_logo_%282019%29.svg.png" alt="Facebook" height="30" width="40" />
+      <img src="https://static.vecteezy.com/system/resources/previews/018/930/476/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" alt="Facebook" height="30" width="30" />
     </a>
     <a href="https://www.pinterest.com/xjhowx/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pinterest-logo.png" alt="Pinterest" height="30" width="40" />
+      <img src="https://static.vecteezy.com/system/resources/previews/018/930/468/non_2x/pinterest-logo-pinterest-transparent-free-png.png" alt="Pinterest" height="30" width="30" />
     </a>
   </p>
   <p align="right"><a href="#topo">Para o topo</a></p>

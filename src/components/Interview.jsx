@@ -53,12 +53,13 @@ export default function Interview() {
             </motion.div>
             {/* video modal */}
             <ModalVideo
-              channel="youtube"
-              autoplay
-              videoId="IobwwOUJkFk&t"
-              isOpen={isOpen}
-              onClose={() => setIsOpen(false)}
+            channel="youtube"
+            autoplay
+            videoId="IobwwOUJkFk"
+            isOpen={isOpen}
+            onClose={() => setIsOpen(false)}
             />
+
           </div>
         </div>
       </div>
