@@ -1,4 +1,22 @@
 {
+  "name": "portifolio-tattoo-studio-00",
+  "version": "1.0.0",
+  "description": "Projeto do Portfólio de Tatuagem",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^12.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
+{
   "name": "tatto-studio",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +27,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@react-google-maps/api": "^2.18.1",
     "framer-motion": "^10.12.22",
+    "next": "^15.2.4",
     "react": "^18.2.0",
     "react-circular-progressbar": "^2.1.0",
     "react-dom": "^18.2.0",
@@ -18,9 +39,7 @@
     "react-modal-video": "^2.0.1",
     "react-photo-album": "^2.2.2",
     "react-responsive-carousel": "^3.2.23",
-    "@react-google-maps/api": "^2.18.1",
     "react-toastify": "^9.0.7",
-    "@emailjs/browser": "^3.11.0",
     "sass": "^1.62.0",
     "swiper": "^9.4.1"
   },
